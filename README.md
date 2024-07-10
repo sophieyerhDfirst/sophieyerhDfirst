@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sophieyerhDfirst
-- 👀 I’m interested in backend development
+- 👀 I’m into Data Analytics, Data cleaning
+- 👀  Interested in backend development
 - 🌱 I’m currently learning C# and .NET
 - 💞️ I’m currently working on some personal projects to improve my skills
 - 💞️ I'm always open to collaboration and feedback
